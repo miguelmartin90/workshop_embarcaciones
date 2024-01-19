@@ -1,5 +1,5 @@
 # workshop_embarcaciones
 
 Grupo:
-José Manuel Rodriguez
+José Manuel Rodriguez,
 Miguel H. Martin Matiz
